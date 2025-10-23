@@ -15,16 +15,16 @@ Proyecto simple en **Java** que implementa un **CRUD básico** (Crear, Leer, Act
 
 ## 🧩 Estructura
 
-src/
-└── com/techlab/
-├── model/Producto.java
-├── service/ProductoService.java
-├── util/Entrada.java
-└── Main.java
+src/  
+└── com/techlab/  
+├── model/Producto.java  
+├── service/ProductoService.java  
+├── util/Entrada.java  
+└── Main.java  
 
 ---
 
 ## 💡 Autor
 
-Nicolás Fernández
+Nicolás Fernández  
 Proyecto educativo para practicar POO y CRUD en Java.
